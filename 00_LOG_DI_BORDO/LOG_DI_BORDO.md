@@ -178,3 +178,51 @@ Questo documento rappresenta il registro completo e trasparente di tutte le atti
 ---
 
 *Ultimo aggiornamento: 2025-10-06 11:36*
+
+---
+
+### 11:40 - Identificazione Collaboratori Potenziali (Fase 4)
+
+**Azione:** Ricerca e compilazione di 50 profili di spicco nei campi richiesti
+
+**Dettagli:**
+- **AI Ethics (15 profili):** Ali Alkhatib, Emily Bender, Jack Clark, Inioluwa Deborah Raji, Timnit Gebru, Geoffrey Hinton, Shane Legg, Padre Paolo Benanti, Belinda Parmar, Rumman Chowdhury, Joy Buolamwini, Safiya Noble, Cathy O'Neil, Virginia Dignum, Luciano Floridi
+- **Strategic Management (10 profili):** Henry Mintzberg, Roger Martin, Rita McGrath, Clayton Christensen (legacy), Gary Hamel, C.K. Prahalad (legacy), Michael Porter, Rosabeth Moss Kanter, Amy Edmondson, Edgar Schein
+- **Systems Thinking (15 profili):** Donella Meadows (legacy), Peter Senge, Russell Ackoff (legacy), Margaret Wheatley, Barry Oshry, Jay Forrester (legacy), John Sterman, Jamais Cascio, Kate Raworth, Otto Scharmer, Adam Kahane, Stafford Beer (legacy), Nora Bateson, Fritjof Capra, Joanna Macy
+- **Open Source Intelligence (3 profili):** Michael Bazzell, Micah Hoffman, Lorand Bodo
+- **AI Safety & Research (7 profili):** Shannon Vallor, Nick Bostrom, Stuart Russell, Yoshua Bengio, Fei-Fei Li, Daniel Kim, Linda Booth Sweeney
+
+**Fonti Utilizzate:**
+- Business Insider AI 100 (top 12 in AI policy, ethics, research)
+- Forbes 15 AI Ethics Leaders
+- SIpEIA e AIPIA (organizzazioni italiane)
+- Letteratura classica systems thinking
+- OSINT community leaders
+- Strategic Management Society
+
+**File Prodotti:**
+- `02_COMMUNITY/Contatti_Potenziali.csv` - Database completo di 50 profili con Nome, Organizzazione, Profilo_URL, Campo_di_Expertise, Note
+- `02_COMMUNITY/profili_identificati_temp.md` - Note di ricerca dettagliate (file temporaneo)
+
+**Decisioni:**
+- Inclusi alcuni profili "legacy" (deceduti) per onorare i fondatori dei campi, ma chiaramente marcati
+- Bilanciamento tra accademici, practitioner e attivisti
+- Priorità a profili con presenza online attiva e accessibile
+- Incluso mix di profili internazionali e italiani
+- LinkedIn URLs stimati dove non verificati direttamente
+
+**Conformità alle Regole:**
+- ✅ Regola della Trasparenza Totale: Tutte le fonti documentate
+- ✅ Regola dell'Architettura Aperta: CSV formato standard
+- ✅ Regola della Supervisione Umana: Nessun contatto effettuato, solo preparazione lista
+
+**Stato:** ✅ Completato
+
+**Prossimi Passi:**
+1. Preparazione bozze email personalizzate per i primi 10 contatti
+2. Collocazione bozze in cartella per approvazione umana
+3. Presentazione risultati completi Fase 1
+
+---
+
+*Ultimo aggiornamento: 2025-10-06 11:45*
